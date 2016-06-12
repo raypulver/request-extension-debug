@@ -1,7 +1,7 @@
 {
   "name": "request-extension-debug",
   "version": "0.1.0",
-  "description": "Standalone request addon for colorful debugging, inspired by request-debug",
+  "description": "Request extension for colored debug output, inspired by request-debug",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
