@@ -1,6 +1,6 @@
 {
   "name": "request-extension-debug",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Request extension for colored debug output, inspired by request-debug",
   "main": "index.js",
   "scripts": {
